@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "sn.ssi.sygmap"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "sygmap",
+    "packageName": "sn.ssi.sygmap",
+    "packageFolder": "sn/ssi/sygmap",
+    "serverPort": "9092",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjVkZDg0Y2E4YzkxNzczYjQ3NTJmNWQ3MmViZjIwMmY1NGMyMWZkNGFmNGUyY2YxYjQ1NmFiN2IyYjQxNjlkMmVhMzY4NGNjNDYwOWFhY2E2Y2FhZjljOTEyYTI0MjFlY2YwOTRlMTg4YzI4YTkxODUyZDg3NWE2NmUzZmEyZTc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1605095628722,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "lastLiquibaseTimestamp": 1605096890000
+  }
+}
